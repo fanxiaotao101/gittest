@@ -1,2 +1,3 @@
-这是一个git test 测试....
-测试中。。。。
+this is test for git.
+The git is a version management
+The git code git init  its create empty 
