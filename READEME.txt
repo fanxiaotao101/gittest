@@ -1,3 +1,4 @@
 this is test for git.
 The git is a version management
-The git code git init  its create empty 
+The git code git init  its create empty room.
+The git code git clone its pull a pro to local room.
